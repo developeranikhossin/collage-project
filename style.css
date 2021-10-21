@@ -175,8 +175,6 @@
 .course-area{
 	padding: 90px 0 20px 0;
 }
-
-
 .single-text {
 	text-align: center;
 	padding-bottom: 80px;
@@ -224,6 +222,68 @@
 
 
 /* course-area-end */
+
+
+
+/* question-area-start  */
+
+
+.question-area{
+	padding: 90px 0;
+}
+.question-single-text{
+	text-align: center;
+	padding-bottom: 90px;
+}
+.question-single-text h2{
+	padding-bottom: 20px;
+}
+.question-single-text h3{}
+.single-question {
+	padding-left: 65px;
+}
+
+.single-question input {
+	margin-bottom: 10px;
+	padding: 8px 0;
+}
+.single-question .input-one {
+	padding-right: 250px;
+	padding-left: 10px;
+}
+.single-question .input-two {
+	padding-right: 250px;
+	padding-left: 10px;
+}
+.single-question .input-there {
+	padding-right: 250px;
+	padding-left: 10px;
+}
+.single-question .Option {
+	padding: 10px 208px 11px 14px;
+	margin-bottom: 20px;
+}
+.single-question .form-a {
+	text-decoration: none;
+	padding: 10px 207px;
+	background: red;
+	color: white;
+	border-radius: 8px;
+	font-weight: 700;
+}
+
+.single-question-img a img {
+	width: 100%;
+	height: 408px;
+	border-radius: 10px;
+}
+
+
+
+/* question-area-end  */
+
+
+
 
 
 
