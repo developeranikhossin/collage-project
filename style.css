@@ -406,7 +406,45 @@
 /* footer-top-area-end */
 
 
+.login-area{
+	padding: 130px 0;
+}
+.login-option {
+	background: red;
+	border-radius: 20px;
+	padding: 25px 0px;
+}
+.login-option form{}
+.login-option form h2 {
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 15px;
+	margin-left: 140px;
+	color: white;
+}
+.login-option form input {
+	margin-bottom: 25px;
+	margin-left: 140px;
+}
+.login-option form .login-option-one {
+	padding: 10px 125px 10px 15px;
+}
+.login-option form .login-option-two {
+	padding: 10px 125px 10px 15px;
+}
+.login-option form .login-option-button {
+	padding: 10px 55px;
+	background: #259fa5;
+	border: 0;
+	border-radius: 7px;
+}
 
+
+.login-option-Register{}
+.login-option-Register form{}
+.login-option-Register form input{}
+.login-option-Register form .login-option-one{}
+.login-option-Register form .login-option-two{}
 
 
 
