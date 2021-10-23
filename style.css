@@ -284,9 +284,126 @@
 
 
 
+/* google-map-area-start */
+
+.google-map-area{}
+
+
+/* google-map-area-end */
+
+
+/* brand-area-start */
+
+.brand-area{
+	background: #fff;
+}
+.single-brand{
+	padding: 35px 0;
+}
+.single-brand a img {
+	margin-left: 110px;
+}
+
+/* brand-area-end */
 
 
 
+/* footer-top-area-start */
+
+/* footer-top-area 1 part */
+
+.black-bg{
+	background: black;
+}
+
+.footer-top-area{
+	padding: 100px 0;
+}
+.footer-contact{}
+.footer-contact h3 {
+	color: #fff;
+	margin-bottom: 30px;
+	font-size: 25px;
+	font-weight: 700;
+	line-height: 1;
+}
+.contact-list{}
+.contact-list ul{
+	margin-bottom: 20px;
+}
+.contact-list ul li {
+	color: #777;
+	line-height: 35px;
+}
+.contact-icon{}
+.contact-icon a {
+	color: #fff;
+	margin-right: 10px;
+	font-size: 25px;
+}
+.contact-icon a i{}
+
+
+
+
+/* footer-top-area 2 part */
+
+
+
+.footer-contact h2{}
+.page-url {}
+.page-url li {
+	width: 50%;
+	float: left;
+	list-style: none;
+}
+.page-url li a{
+	color: #777;
+	text-decoration: none;
+	line-height: 40px;
+}
+.page-url li a i{
+	margin-right: 10px;
+}
+
+
+/* footer-top-area 3 part */
+
+
+
+.footer-contact p{
+	color: #777;
+	font-size: 22px;
+	font-weight: 600;
+}
+
+
+
+/* copyright-area */
+
+.copyright-border {
+	border-top: 2px solid #777;
+	padding: 40px 0;
+}
+.copyright-text p {
+	color: #777;
+	margin: 0;
+	font-size: 17px;
+}
+.footer-menu ul li {
+	display: inline-block;
+	margin-left: 30px;
+}
+.footer-menu ul li a {
+	color: #777;
+	text-decoration: none;
+	font-size: 17px;
+}
+
+
+
+
+/* footer-top-area-end */
 
 
 
