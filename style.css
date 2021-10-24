@@ -103,7 +103,7 @@
 }
 .slider-text h2 {
 	color: white;
-	font-size: 30px;
+	font-size: 28px;
 	font-weight: 700;
 	padding-bottom: 22px;
 }
@@ -401,18 +401,20 @@
 }
 
 
-
-
 /* footer-top-area-end */
 
 
+
+/* student-login-area-start */
+
+
 .login-area{
-	padding: 130px 0;
+	padding: 90px 0;
 }
 .login-option {
 	background: red;
 	border-radius: 20px;
-	padding: 25px 0px;
+	padding: 137px 0px;
 }
 .login-option form{}
 .login-option form h2 {
@@ -440,13 +442,43 @@
 }
 
 
-.login-option-Register{}
-.login-option-Register form{}
-.login-option-Register form input{}
-.login-option-Register form .login-option-one{}
-.login-option-Register form .login-option-two{}
+/* part 2 */
 
 
+
+.login-option-Register {
+	background: red;
+	border-radius: 20px;
+	padding: 25px 0px;
+}
+.login-option form{}
+.login-option-Register form h2 {
+	font-size: 22px;
+	font-weight: 600;
+	margin-bottom: 15px;
+	margin-left: 140px;
+	color: white;
+}
+.login-option-Register form input {
+	margin-bottom: 25px;
+	margin-left: 140px;
+}
+.login-option-Register form .login-option-one {
+	padding: 10px 125px 10px 15px;
+}
+.login-option-Register form .login-option-two {
+	padding: 10px 125px 10px 15px;
+}
+.login-option-Register form .login-option-button {
+	padding: 10px 55px;
+	background: #259fa5;
+	border: 0;
+	border-radius: 7px;
+}
+
+
+
+/* student-login-area-end */
 
 
 
